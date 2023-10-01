@@ -3,11 +3,17 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import BrowserPage from './Browser/BrowserPage';
+import Content from './Browser/Content';
+import Page from './Browser/page_t';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    {/* <BrowserPage /> */}
+    <Content />
+    {/* <Page /> */}
   </React.StrictMode>
 );
 

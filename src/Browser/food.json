@@ -1,0 +1,152 @@
+{
+    "Produce": [
+        {
+            "image": "banana",
+            "price": "$0.69",
+            "name": "Banana 1 ct",
+            "weight": "18 oz"
+        },
+        {
+            "image": "strawberry",
+            "price": "$0.69",
+            "name": "Strawberries",
+            "weight": "1 lb"
+        },
+        {
+            "image": "yogurt",
+            "price": "$0.69",
+            "name": "Yogurt",
+            "weight": "1 lb"
+        },
+        {
+            "image": "blackberry",
+            "price": "$0.69",
+            "name": "Blacberries",
+            "weight": "1 lb"
+        },
+        {
+            "image": "banana",
+            "price": "$0.69",
+            "name": "Banana 1 ct",
+            "weight": "18 oz"
+        },
+        {
+            "image": "strawberry",
+            "price": "$0.69",
+            "name": "Strawberries",
+            "weight": "1 lb"
+        },
+        {
+            "image": "yogurt",
+            "price": "$0.69",
+            "name": "Yogurt",
+            "weight": "1 lb"
+        },
+        {
+            "image": "blackberry",
+            "price": "$0.69",
+            "name": "Blacberries",
+            "weight": "1 lb"
+        }
+    ],
+    "Prepared foods": [
+        {
+            "image": "/bananaimage.png",
+            "price": "$0.69",
+            "name": "Banana 1 ct",
+            "weight": "18 oz"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Strawberries",
+            "weight": "1 lb"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Yogurt",
+            "weight": "1 lb"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Blacberries",
+            "weight": "1 lb"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Banana 1 ct",
+            "weight": "18 oz"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Strawberries",
+            "weight": "1 lb"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Yogurt",
+            "weight": "1 lb"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Blacberries",
+            "weight": "1 lb"
+        }
+    ],
+    "Canned foods & Soups": [
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Banana 1 ct",
+            "weight": "18 oz"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Strawberries",
+            "weight": "1 lb"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Yogurt",
+            "weight": "1 lb"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Blacberries",
+            "weight": "1 lb"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Banana 1 ct",
+            "weight": "18 oz"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Strawberries",
+            "weight": "1 lb"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Yogurt",
+            "weight": "1 lb"
+        },
+        {
+            "image": "John",
+            "price": "$0.69",
+            "name": "Blacberries",
+            "weight": "1 lb"
+        }
+    ]
+}

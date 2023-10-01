@@ -23,3 +23,24 @@ function App() {
 }
 
 export default App;
+
+
+// _app.js
+// import { PrimeReactProvider } from 'primereact/api';
+// import BrowserPage from './Browser/BrowserPage';
+
+// //theme
+// import "primereact/resources/themes/lara-light-indigo/theme.css";
+
+// //core
+// import "primereact/resources/primereact.min.css";
+
+
+// export default function MyApp({ Component, pageProps }) {
+//   return (
+//     <PrimeReactProvider>
+//       {/* <Component {...pageProps} /> */}
+//       <BrowserPage />
+//     </PrimeReactProvider>
+//   );
+// }
